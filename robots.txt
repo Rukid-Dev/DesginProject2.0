@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://designproject.cc/sitemap.xml
